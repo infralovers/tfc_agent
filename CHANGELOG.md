@@ -1,3 +1,10 @@
+## 1.0.2 (2024-05-08)
+
+#### Bug Fixes
+
+* Change workflow (e7c55f2e)
+
+
 ## 1.0.1 (2024-05-08)
 
 #### Bug Fixes
