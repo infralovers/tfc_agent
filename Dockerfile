@@ -1,5 +1,5 @@
-ARG OP_VERSION=2.24.0
-ARG VERSION=1.14.2
+ARG OP_VERSION=2.29.0
+ARG VERSION=1.15.3
 FROM 1password/op:${OP_VERSION} as op 
 
 FROM hashicorp/tfc-agent:${VERSION}
