@@ -1,3 +1,11 @@
+## 1.0.3 (2025-04-24)
+
+#### Bug Fixes
+
+* workflow only for linux/amd64 (9d2c20df)
+* upgrade tools (98929cd5)
+
+
 ## 1.0.2 (2024-05-08)
 
 #### Bug Fixes
